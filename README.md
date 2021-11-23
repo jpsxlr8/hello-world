@@ -1,1 +1,1 @@
-# hello-world-in-Rust
+# hello-world
